@@ -1,0 +1,46 @@
+body {
+	font-family: 'Roboto', sans serif;
+	background-color: rgb(230, 230, 230);
+	color: rgb(30, 30, 30);
+}
+.title {
+	color: rgb(118, 158, 150);
+	text-align: center;
+	margin-top: 50px;
+	margin-bottom: 80px;
+	font-size: 35px;
+}
+.edu {
+	background-color: white;
+	box-shadow: 1px 1px 10px rgba(0, 0, 0, 1);
+	padding: 18px;
+	border-radius: 4px;
+	margin: 40px;
+	width: cover;
+	height: cover;
+	object-fit: cover;
+	line-height: 6px;
+}
+.education h4 {
+	color: rgb(167,115,123);
+	font-size: 20px;
+}
+.education h5 {
+	font-size: 16px;
+	font-weight: 550;
+}
+.education h6 {
+	font-size: 14px;
+	font-weight: 550;
+}
+.education p {
+	font-weight: 450;
+}
+.footer {
+	background-color: lightgrey;
+	padding: 3px 0px;
+	text-align: center;
+	color: rgb(118, 158, 150);
+	margin-top: 80px;
+	font-size: 20px;
+}
