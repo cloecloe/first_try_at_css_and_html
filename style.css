@@ -5,7 +5,7 @@ body {
 }
 .banner {
 	color: white;
-	background-image:url(Images/place2.jpg); zoom: 62%; position: absolute; top: -100px;left:0px; right:0; bottom: 255px; opacity:0.5; z-index: 1;
+	background-image:url(Images/place2.jpg); zoom: 62%; position: absolute; top: -110px;left:0px; right:0; bottom: 200px; opacity:0.5; z-index: 1;
 	margin-bottom: 50px;
 }
 .side {
@@ -22,11 +22,11 @@ body {
     position: absolute;
     display : inline-block;
     margin-left: 179px;
-    margin-top: 490px;
+    margin-top: 460px;
 }
 .side h1 {
 	margin-left: 380px;
-	margin-top: 560px;
+	margin-top: 540px;
 	margin-bottom: 5px;
 	font-size: 50px;
 	color: rgb(168, 115, 123);
