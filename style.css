@@ -56,9 +56,10 @@ body {
 	text-align: center;
 }
 .linkedin {
-	display:block;
 	width:110px;
+	height: 60px;
 	margin: auto;
+	padding: 30px;
 }
 .container {
 	display: grid;
