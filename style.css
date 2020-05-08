@@ -5,37 +5,32 @@ body {
 	margin: 0px;
 }
 .banner {
-	color: white;
-	background-image:url(Images/place2.jpg); zoom: 62%; position: absolute; top: -110px;left:0px; right:0; bottom: 200px; opacity:0.5; z-index: 1;
-	margin-bottom: 50px;
+	background-image: url(Images/place2.jpg); 
+	background-size: cover;
+	padding: 260px 0px;
+	opacity: 0.8;
 }
 .side {
 	display: grid;
 	grid-template-columns: 1fr;
 }
-.side img {
-    -webkit-border-radius:80px;
-    -moz-border-radius:80px;
+.beg img {
     border-radius:150px;
-    width:180px;
-    height:180px;
-    z-index: 10;
+    height: 175px;
+    width: 170px;
+    margin-top: -80px;
+    margin-left: 160px;
     position: absolute;
-    display : inline-block;
-    margin-left: 179px;
-    margin-top: 460px;
 }
-.side h1 {
-	margin-left: 380px;
-	margin-top: 540px;
-	margin-bottom: 5px;
+.beg h1 {
+	margin-left: 345px;
+	margin-top: 5px;
 	font-size: 50px;
 	color: rgb(168, 115, 123);
 }
-.side p {
-	margin-left: 385px;
-	margin-top: 0px;
-	margin-bottom: 0px;
+.beg p {
+	margin-left: 350px;
+	margin-top: -30px;
 	font-size: 20px;
 }
 .card-white {
