@@ -38,36 +38,13 @@ body {
 	box-shadow: 1px 1px 10px rgba(0, 0, 0, 1);
 	padding: 18px;
 	border-radius: 4px;
-	margin-top: 40px;
-	margin-left: 40px;
+	margin: auto;
 	width: 215px;
 	height: 270px;
 	text-align: center;
 	object-fit: cover;
 }
 .card-white h3 {
-	color: rgb(118, 158, 150);
-}
-.card-white a {
-	background-color: rgb(118, 158, 150);
-	color: rgb(230,230,230);
-	padding: 8px 10px;
-	border-radius: 4px;
-	text-decoration: none;
-}
-.card-white2 {
-	background-color: white;
-	box-shadow: 1px 1px 10px rgba(0, 0, 0, 1);
-	padding: 18px;
-	border-radius: 4px;
-	margin-top: 40px;
-	margin-left: 40px;
-	width: 215px;
-	height: 270px;
-	text-align: center;
-	object-fit: cover;
-}
-.card-white2 h3 {
 	color: rgb(118, 158, 150);
 }
 .button {
@@ -81,14 +58,14 @@ body {
 .linkedin {
 	display:block;
 	width:110px;
-	margin:0 auto;
+	margin: auto;
 }
 .container {
 	display: grid;
 	grid-template-columns: 1fr 1fr 1fr;
-	margin-top: 80px;
-	margin-left: 90px;
-	margin-right: 90px;
+	margin: auto;
+	max-width: 1000px;
+	width: 100%;
 }
 .footer {
 	background-color: lightgrey;
